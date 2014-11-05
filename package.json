@@ -1,0 +1,13 @@
+{
+    "name": "Gmail-ssb",
+    "description": "A Gmail site-specific browser (SSB) by node-webkit.",
+    "repository" : {
+        "type" : "git",
+        "url" : "git://github.com/chagel/gmail-ssb.git"
+    },
+    "devDependencies": {
+        "grunt": "latest",
+        "grunt-node-webkit-builder": "latest"
+    }
+}
+

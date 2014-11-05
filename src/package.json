@@ -1,17 +1,16 @@
 {
-  "name": "Gmail",
-  "version": "1.0",
-  "main": "index.html",
-  "window": {
-    "toolbar": false,
-    "frame": true,
-    "width": 1300,
-    "height": 800,
-    "position": "middle",
-    "icon": "icon.png"
-  },
-  "devDependencies": {
-    "grunt": "~0.4.5",
-    "grunt-node-webkit-builder": "~0.1.21"
-  }
+    "main": "index.html",
+    "name": "Gmail",
+    "version": "1.0.0",
+    "window": {
+        "toolbar": false,
+        "frame": true,
+        "width": 1100,
+        "height": 650,
+        "position": "middle",
+        "icon": "icon.png"
+    },
+    "webkit": {
+        "plugin": true
+    }
 }

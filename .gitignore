@@ -1,2 +1,5 @@
 node_modules
 webkitbuilds
+build
+cache
+.DS_Store
