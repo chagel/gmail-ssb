@@ -9,6 +9,7 @@ A Gmail site-specific browser (SSB) by node-webkit.
 
 ### Getting Started
 
-1. Run `grunt`
-2. Open Gmail.app in release folder
+1. Run `npm install`
+1. Run `grunt nodewebkit`
+2. Open `build/Gmail/osx/Gmail.app`
 
